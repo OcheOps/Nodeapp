@@ -1,5 +1,3 @@
-// controllers/userController.js
-
 const User = require('../models/user');
 
 // Create a new user
