@@ -43,13 +43,13 @@ This command will build the Docker images for the web application and MongoDB da
 
 Once the containers are running, you can access the web application at `http://localhost:4000`.
 
-### 5. Run Tests
+### 5. Run app
 
 ```bash
-docker-compose run web npm test
+docker-compose run web npm start
 ```
 
-This command will run the tests for the web application.
+This command will run the  web application.
 
 ### 6. Stop the Containers
 
